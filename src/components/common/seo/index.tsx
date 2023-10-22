@@ -3,13 +3,12 @@ import { NextSeo } from 'next-seo';
 const SEO = () => {
 	return (
 		<NextSeo
-			title='Web3 Hackathon Starter'
-			description='A opinionated starter template for building web3 applications with Next.js, Tailwind CSS, and thirdweb'
+			title='NFT Rarity'
+			description='A simple NFT Rarity calculator using Alchemy APIs.'
 			openGraph={{
 				url: 'https://w3-starter.vercel.app',
 				title: 'Web3 Hackathon Starter',
-				description:
-					'A opinionated starter template for building web3 applications with Next.js, Tailwind CSS, and thirdweb',
+				description: 'A simple NFT Rarity calculator using Alchemy APIs.',
 				images: [
 					{
 						url: 'https://i.ibb.co/YhWLyTb/OG.png',
@@ -19,7 +18,7 @@ const SEO = () => {
 						type: 'image/png',
 					},
 				],
-				siteName: 'Web3 Hackathon Starter',
+				siteName: 'NFT Rarity',
 			}}
 			twitter={{
 				handle: '@Envoy_1084',
