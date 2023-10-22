@@ -11,10 +11,10 @@ const SEO = () => {
 				description: 'A simple NFT Rarity calculator using Alchemy APIs.',
 				images: [
 					{
-						url: 'https://i.ibb.co/YhWLyTb/OG.png',
+						url: 'https://i.ibb.co/H44m9Xd/OG.png',
 						width: 1200,
 						height: 630,
-						alt: 'W3S OG Image',
+						alt: 'NFT Rarity OG Image',
 						type: 'image/png',
 					},
 				],
